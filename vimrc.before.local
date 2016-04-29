@@ -1,0 +1,6 @@
+" shortcuts for buffer moving
+nmap <leader>l :bnext<CR>
+nmap <leader>h :bprevious<CR>
+let g:spf13_leader='\'
+let g:spf13_bundle_groups=['general', 'programming', 'misc', 'youcompleteme', 'EasyGrep']
+let g:ycm_global_ycm_extra_conf = "~/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/ycm/.ycm_extra_conf.py"
