@@ -1,2 +1,2 @@
 Bundle 'EasyGrep'
-Bundle 'brookhong/cscope.vim'
+Bundle 'cscope_plus.vim'
